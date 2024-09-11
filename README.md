@@ -23,7 +23,7 @@ Welcome to the Quiz Game, a fun and interactive console-based game that tests yo
 
 3. Run the game using Python:
    ```bash
-   python3 quiz_game.py
+   python3 Quiz_game.py
    ```
 
 Ensure you have Python 3 installed on your system.
